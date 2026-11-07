@@ -7,10 +7,10 @@
 ## English
 
 Minek is a free Android app that shows public transport departures, live
-vehicles and routes in Estonia. It is made by Jaanus Loitmaa
-(jaanus.loitmaa@gmail.com).
+vehicles and routes in Estonia. It is published by PageHQ Tech OÜ, Tallinn, Estonia
+(support@pagehq.ai), the data controller for this policy.
 
-**Minek does not collect, store or send personal data to its author.**
+**Minek does not collect, store or send personal data to its publisher.**
 There are no accounts, no analytics, no advertising and no crash
 reporting.
 
@@ -57,10 +57,10 @@ Changes to this policy are published at this address with a new date.
 ## Eesti keeles
 
 Minek on tasuta Androidi rakendus, mis näitab ühistranspordi väljumisi,
-sõidukite asukohti ja teekondi Eestis. Rakenduse autor on Jaanus
-Loitmaa (jaanus.loitmaa@gmail.com).
+sõidukite asukohti ja teekondi Eestis. Rakenduse avaldaja ja vastutav
+töötleja on PageHQ Tech OÜ, Tallinn (support@pagehq.ai).
 
-**Minek ei kogu, salvesta ega saada autorile isikuandmeid.** Rakenduses
+**Minek ei kogu, salvesta ega saada avaldajale isikuandmeid.** Rakenduses
 pole kontosid, analüütikat, reklaami ega vearaporteid.
 
 ### Telefonis hoitavad andmed
