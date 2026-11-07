@@ -1,6 +1,6 @@
 # Minek — Privacy Policy / Privaatsuspoliitika
 
-*Last updated / Viimati uuendatud: 2026-11-06*
+*Last updated / Viimati uuendatud: 2026-11-07*
 
 ---
 
